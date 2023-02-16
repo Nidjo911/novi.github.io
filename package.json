@@ -1,9 +1,10 @@
 {
-  "name": "parcijalni-ispit",
+  "name": "a",
   "version": "1.0.0",
   "description": "Razvojna okolina - parcijalni ispit",
   "main": "app.js",
   "dependencies": {
+    "bootstrap": "^5.2.3",
     "express": "^4.17.1"
   },
   "devDependencies": {},
